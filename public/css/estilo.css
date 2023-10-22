@@ -1,0 +1,6 @@
+@import "./global/global.css";
+@import "./global/header.css";
+@import "./global/footer.css";
+@import "./utilitarios/core.css";
+@import "./utilitarios/formulario.css";
+@import "./principais/principal.css";
